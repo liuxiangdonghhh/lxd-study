@@ -40,6 +40,7 @@ public class Appointment {
     }
 
     public Date getAppointTime() {
+        int i = 0;
         return appointTime;
     }
 
